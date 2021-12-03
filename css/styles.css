@@ -1,12 +1,23 @@
 body {
-    background-color: rgb(202, 228, 196);
+    background-color: #2D2424 ;
   }
 
   hr {
     border-style: none;
     border-top-style: dotted;
-    border-color: gray;
+    border-color: #5C3D2E;
     border-width: 5px;
     width: 10%;
   }
-  
+
+  h1, h3 {
+    color: #E0C097;
+  }
+
+  p {
+    color: #E0C097;
+  }
+
+  li {
+    color: #E0C097; 
+  }
