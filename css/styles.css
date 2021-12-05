@@ -1,23 +1,4 @@
 body {
-    background-color: #2D2424 ;
+    background-color: blue ;
   }
 
-  hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-color: #5C3D2E;
-    border-width: 5px;
-    width: 10%;
-  }
-
-  h1, h3 {
-    color: #B85C38;
-  }
-
-  p {
-    color: #E0C097;
-  }
-
-  li {
-    color: #E0C097; 
-  }
