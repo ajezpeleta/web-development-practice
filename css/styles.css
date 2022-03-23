@@ -1,4 +1,56 @@
 body {
-    background-color: blue ;
-  }
+    background-color: #3A6351;
+    margin: 0px;
+    text-align: center;
+}
 
+div {
+  background-color: #E48257;
+}
+
+.square {
+  width: 250px;
+  height: 250px;
+}
+
+.top-container {
+  /* background-color: chocolate; */
+  padding-top: 5%;
+}
+
+.middle-container {
+  background-color: cornflowerblue;
+}
+
+.bottom-container {
+  background-color: chocolate;
+}
+
+.developer, .creative {
+  color: #3A6351;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 5%;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 5%;
+  top: 15%;
+}
+
+h1 {
+  color: #393232;
+  margin-top: 0px;
+}
+
+p {
+  color: #393232;
+}
+
+/* h5.bottom-cloud:last-child {
+
+} */
